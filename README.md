@@ -1,6 +1,6 @@
 
 
-### Hiya! 👋 It's me kyo aka Arlon.
+### Hiya! 👋 It's me Kyo aka Arlon.
 
 ## I'm just a Student with some interest in code!
 - 🔭 Currently working on various projects, mostly on discord bots and some open-source projects!
