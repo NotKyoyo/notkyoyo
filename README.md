@@ -4,9 +4,9 @@
 
 ## I'm just a Student with some interest in code!
 - 🔭 Currently working on various projects, mostly on discord bots and some open-source projects!
-- 🥅 2020 Goals: Learn new things, and complete my mal queue.(Actually I'm being lazy)
-- 📫 Reach me on Discord: kyoyo#0001
-- ⚡ Not much to add lol ;-;
+- 🥅 2021 Goals: Learn new things, and complete my mal queue.(Actually I'm being lazy, like 2020. :3)
+- 📫 Reach me on Discord: Kyoyo#8883
+- ⚡ Nothing much to add lol ;-;
 
 ### Connect with me:
 
@@ -24,9 +24,9 @@
 [twitter]: https://twitter.com/notkyoyo
 [youtube]: https://www.youtube.com/channel/UC7l19HtYF7JAtm-XR_N1UnQ
 [instagram]: https://instagram.com/notkyoyo
-[twitch]: https://www.twitch.tv/me_Arlon
-[discord]: Arlon#0001
-[reddit]: https://www.reddit.com/user/-Arlon-
+[twitch]: https://www.twitch.tv/notkyoyo
+[discord]: Kyoyo#8883
+[reddit]: https://www.reddit.com/user/notkyoyo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notkyoyo&layout=compact)
 
