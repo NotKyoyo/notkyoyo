@@ -25,7 +25,7 @@
 [youtube]: https://www.youtube.com/channel/UC7l19HtYF7JAtm-XR_N1UnQ
 [instagram]: https://instagram.com/notkyoyo
 [twitch]: https://www.twitch.tv/notkyoyo
-[discord]: Kyoyo#8883
+[discord]: https://discord.com/users/649452442253000704/
 [reddit]: https://www.reddit.com/user/notkyoyo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notkyoyo&layout=compact)
